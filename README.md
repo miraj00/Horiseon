@@ -1,6 +1,6 @@
 # Horiseon
 
-Description : Client requested to optimize their Horiseon website that meets accessibility standrad. 
+Client requested to optimize their Horiseon website that meets accessibility standrad. 
 
 *The requirement included to be fulfilled with following things to keep in mind* 
 
@@ -10,11 +10,11 @@ Description : Client requested to optimize their Horiseon website that meets acc
 1. required to fall in sequential order
 1. title has to be concise and descriptive
 
-######After working thru the project and meeting client's requirement, below is the outcome of the project  
+###### After working thru the project and meeting client's requirement, below is the outcome of the project  
 
 ## Screenshot of the Project outcome as per client request ## 
 
-![ Screenshot of web page ] ( /Develop/Screenshot.jpg)
+![Screenshot of web page ](/Develop/Screenshot.JPG)
 
 
 
