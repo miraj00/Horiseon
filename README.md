@@ -14,7 +14,7 @@ Client requested to optimize their Horiseon website that meets accessibility sta
 
 ## Screenshot of the Project outcome as per client request ## 
 
-![Screenshot of web page ](/Develop/Screenshot.JPG)
+![Screenshot of web page](assets/images/Screenshot.JPG)
 
 
 
